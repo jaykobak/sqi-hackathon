@@ -204,3 +204,9 @@ h2 {
 .tour-section h2 {
     font-size: 35px;
 }
+
+.tourist-card {
+    width: 22%;
+    background-color: red;
+    height: 50px;
+}
